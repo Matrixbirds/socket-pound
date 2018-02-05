@@ -1,0 +1,8 @@
+[package]
+name = "hub"
+version = "0.1.0"
+authors = ["matrixbirds <yooobuntu@163.com>"]
+
+[dependencies]
+mio = "0.6"
+rand = "0.3.22"
